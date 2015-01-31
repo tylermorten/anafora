@@ -9,6 +9,12 @@ You will need to have the Bloomberg java libraries installed into the repo direc
 under your current project, i.e. projectdir/repo/bloomberglp/blpapi/3.7.1 or in your local maven
 repository.
 
+This in your dependencies:
+
+```
+[anaflora "0.1.0-SNAPSHOT"]
+```
+
 ## Example
 ```
 (ns test
