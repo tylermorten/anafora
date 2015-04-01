@@ -12,7 +12,7 @@ repository.
 This in your dependencies:
 
 ```
-[anaflora "0.1.0-SNAPSHOT"]
+[anafora "0.1.0-SNAPSHOT"]
 ```
 
 ## Example
